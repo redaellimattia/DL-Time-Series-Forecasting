@@ -24,7 +24,7 @@ one on the leaderboard, with a score of 3.6204 RMSE.
 
 ## Prediction
 <p align=center>
-  <img width="600" alt="Prediction" src="prediction.png">
+  <img width="600" alt="Prediction" src="predict.png">
 </p>
 
 # Group components:
