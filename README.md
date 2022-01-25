@@ -3,7 +3,7 @@
 The goal of the project is to predict future samples of a multivariate time series. 
 The TimeSeries Forecasting problem is characterized by analysing a sequence of data showing past interactions and behaviour, and eventually exploiting recurrencies and seasonalities the model can make a reliable prediction of how will be the future for a fixed number of timesteps
 <p align=center>
-  <img width="412" alt="Schermata 2021-11-29 alle 14 37 38" src="https://user-images.githubusercontent.com/79969755/143877722-613956ca-cdd1-4ce9-be17-075853540133.png">
+  <img width="412" alt="Dataframe" src="dataframe.png">
 </p>
 
 ## Final Model 
@@ -21,6 +21,11 @@ Hyperparameters: Window: 800 | Stride: 5 | Telescope: 144 | Batch Size = 128
 We tried to combine this Attention Layer with various models, using different approaches
 and different architectures but in the end this model listed here was the best performing
 one on the leaderboard, with a score of 3.6204 RMSE.
+
+## Prediction
+<p align=center>
+  <img width="412" alt="Prediction" src="prediction.png">
+</p>
 
 # Group components:
 Group Name:<b> Gamma </b>
