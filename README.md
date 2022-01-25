@@ -1,5 +1,6 @@
 # Time Series Forecasting
 ## Description of the problem
+This small project was performed as an assignment for the course of _Artificial Neural Networks & Deep Learning_ and it's part of the exam. 
 The goal of the project is to predict future samples of a multivariate time series. 
 The TimeSeries Forecasting problem is characterized by analysing a sequence of data showing past interactions and behaviour, and eventually exploiting recurrencies and seasonalities the model can make a reliable prediction of how will be the future for a fixed number of timesteps
 <p align=center>
