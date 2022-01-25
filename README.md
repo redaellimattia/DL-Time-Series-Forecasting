@@ -1,4 +1,4 @@
-# Time Series Forecasting
+# DL - Time Series Forecasting
 ## Description of the problem
 This small project was performed as an assignment for the course of _Artificial Neural Networks & Deep Learning_ and it's part of the exam.   
 The goal of the project is to predict future samples of a multivariate time series. 
