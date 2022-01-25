@@ -3,7 +3,7 @@
 The goal of the project is to predict future samples of a multivariate time series. 
 The TimeSeries Forecasting problem is characterized by analysing a sequence of data showing past interactions and behaviour, and eventually exploiting recurrencies and seasonalities the model can make a reliable prediction of how will be the future for a fixed number of timesteps
 <p align=center>
-  <img width="412" alt="Dataframe" src="dataframe.png">
+  <img width="600" alt="Dataframe" src="dataframe.png">
 </p>
 
 ## Final Model 
@@ -24,7 +24,7 @@ one on the leaderboard, with a score of 3.6204 RMSE.
 
 ## Prediction
 <p align=center>
-  <img width="412" alt="Prediction" src="prediction.png">
+  <img width="600" alt="Prediction" src="prediction.png">
 </p>
 
 # Group components:
