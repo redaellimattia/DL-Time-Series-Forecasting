@@ -20,7 +20,7 @@ Attention layer. The model is as follows:
 6. Attention Layer
 7. Dense + Reshape as seen in class to correctly format output tensor  
 
-Hyperparameters: Window: 800 | Stride: 5 | Telescope: 144 | Batch Size = 128  
+_Hyperparameters: Window: 800 | Stride: 5 | Telescope: 144 | Batch Size = 128_  
 We tried to combine this Attention Layer with various models, using different approaches
 and different architectures but in the end this model listed here was the best performing
 one on the leaderboard, with a score of 3.6204 RMSE.
